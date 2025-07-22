@@ -1,3 +1,4 @@
+20 July, 2025
 # ⚽ FIFA Data Analysis with Python
 
 This project explores player statistics from the FIFA dataset using Python. It focuses on player nationalities, wages, skills like shooting and defending, and includes a closer look at specific clubs like Real Madrid.
