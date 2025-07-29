@@ -1,3 +1,5 @@
+![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow) ![Python](https://img.shields.io/badge/Language-Python-blue)
+
 20 July, 2025
 # ⚽ FIFA Data Analysis with Python
 
