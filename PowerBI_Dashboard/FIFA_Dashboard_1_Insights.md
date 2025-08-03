@@ -1,66 +1,110 @@
-# FIFA 1 - Global Football Landscape: Player Distribution & Wage Insights
+# FIFA 1 – Global Football Landscape: Player Distribution & Wage Insights
 
-## Insights
+## Overview
 
-To effectively explain the **"FIFA 1 - Global Football Landscape: Player Distribution & Wage Insights"** dashboard to someone, you should focus on the key insights and how the visuals interrelate to provide a comprehensive view of the data. Here’s a structured way you can present the dashboard:
+This dashboard offers a closer look at the global football scene by analyzing **player distribution**, **average wages**, and **geographic trends**. It gives users the ability to explore how players from different nationalities and wage brackets are spread across the world, and what that says about the football talent pipeline globally.
 
-### **Introduction**
-"Welcome! This dashboard provides a deep dive into the global football landscape, specifically focusing on **player distribution** across nationalities, their **average wages**, and a **geographic overview** of football talent. We can explore how different **nationalities** and **wage bands** affect the global landscape of football players. The visualizations allow you to drill down into specifics and understand the key trends in global football."
+Below is a step-by-step walkthrough of the dashboard and the insights it reveals.
 
-### **Step-by-Step Explanation**
+---
 
-#### **1. High-Level Overview: KPI Cards**
-- **What It Shows:**
-  - The **total number of players** (18.28K) and the **total wages** (173M EUR) of all players across the dataset.
-- **Purpose:**
-  - These **KPI cards** immediately provide a sense of the dataset's scale, helping us understand the overall magnitude of global football talent and their combined financial value.
+## Introduction
 
-#### **2. Filtering Data: Slicers**
-- **What It Shows:**
-  - The **Nationality slicer** and the **Wage Bands slicer** (Low, Medium, High, Very High).
-- **Purpose:**
-  - These slicers allow users to **filter the entire dashboard** by nationality and wage bands. You can, for instance, focus on **players from a specific country** or narrow down the analysis to players within a particular wage range.
+This dashboard is designed to help you explore the **global football landscape** using data on player **nationalities**, **earnings**, and **geographic presence**. You can interact with different visuals to filter by country or wage bracket and uncover key trends in where football talent comes from—and how much they earn.
 
-#### **3. Nationality Distribution: Top 10 Nationalities by Number of Players (Bar Chart)**
-- **What It Shows:**
-  - A **bar chart** that ranks the **top 10 nationalities** based on the number of players in the dataset. **England**, **Germany**, **Spain**, and others dominate the football scene.
-- **Purpose:**
-  - This chart helps us **identify** the countries that contribute the most football talent globally, setting the stage for a deeper analysis of how their wages compare and how they are distributed geographically.
+---
 
-#### **4. Wage Insights: Nationalities vs Average Wage (Scatter Plot)**
-- **What It Shows:**
-  - A **scatter plot** that compares the **number of players** from different nationalities with their **average wage**. The data is color-coded by **wage band** (Low, Medium, High, Very High).
-- **Purpose:**
-  - This visual shows the **correlation** between a country’s number of players and their average wage. For example, **higher-wage countries** like **England** and **Germany** are often represented by players with higher earnings. Conversely, countries like **Albania** have players earning relatively lower wages.
+## Dashboard Walkthrough
 
-#### **5. Geographic Insights: Global Distribution of Players by Nationality (Map)**
-- **What It Shows:**
-  - A **world map** showing the **geographical spread** of players from different countries. Each country’s players are plotted on the map.
-- **Purpose:**
-  - This map provides **contextual information** on where most of the football talent is located around the world, and helps visualize how nationalities are spread globally, especially compared to the other visuals.
+### 1. KPI Cards – Quick Snapshot of the Dataset
 
-#### **6. Detailed Player-Level Insights: Players by Nationality: Wage and Overall Rating (Table)**
-- **What It Shows:**
-  - A **table** that lists players from the selected nationality, showing their **name**, **wages**, and **overall rating**.
-- **Purpose:**
-  - This table lets us drill down into individual player data and analyze how wages and ratings compare across players from the same country. It also gives a **granular view** of wages for each player within the context of their nationality.
+**What you'll see:**
+- Total number of players: 18,280  
+- Total wages: €173 million
 
-#### **7. Player Distribution by Continent (Pie Chart)**
-- **What It Shows:**
-  - A **pie chart** showing the distribution of players across **continents** (e.g., **Europe**, **South America**, **Africa**, **Asia**, **North America**).
-- **Purpose:**
-  - This pie chart provides a **high-level overview** of the geographic distribution of players. We can see that **Europe** and **South America** dominate, with **Africa** and **Asia** contributing significantly as well.
+**Why it matters:**  
+These headline figures give you a quick sense of the **scale and financial size** of the dataset—how many players are represented, and the combined wages they earn.
 
-### **How the Visuals Work Together:**
-- **Interactivity:**
-  - The slicers allow users to filter the data in real-time based on **nationality** or **wage band**, making the dashboard dynamic and interactive.
-  
-- **Top-to-Bottom Flow:**
-  - We start with high-level metrics (total players and wages) and then move into the **nationality distribution** (Top 10 Nationalities by Number of Players). This leads into the **wage analysis** (Nationalities vs Average Wage) to understand how nationalities compare in terms of earnings.
-  - The **map** offers a **geographic context** to this data, showing where players come from.
-  - The **table** allows users to drill deeper into individual player data, and the **pie chart** gives a quick view of global distribution by continent.
-  
-- **Key Insights:**
-  - **Top footballing countries**: Countries like **England** and **Germany** dominate in terms of players and average wages.
-  - **Wage disparities**: The scatter plot highlights the **wage gap** between different nationalities.
-  - **Geographic distribution**: The
+---
+
+### 2. Filters – Nationality and Wage Band Slicers
+
+**What you'll see:**
+- A filter to select a **specific nationality**
+- A filter to select by **wage bands** (Low, Medium, High, Very High)
+
+**Why it matters:**  
+These slicers let you **customize the view**. Want to focus on just one country? Or only look at high-earning players? These filters instantly update the visuals to match your selection.
+
+---
+
+### 3. Top 10 Nationalities by Number of Players – Bar Chart
+
+**What you'll see:**
+- A bar chart showing which **10 nationalities** have the most players
+
+**Why it matters:**  
+This chart helps you identify the **leading football nations** in terms of player count. Countries like **England**, **Germany**, and **Spain** typically rank high, showing where football development is most concentrated.
+
+---
+
+### 4. Nationalities vs Average Wage – Scatter Plot
+
+**What you'll see:**
+- A scatter plot showing **number of players vs average wage** for each nationality
+- Each point is colored based on wage band (Low to Very High)
+
+**Why it matters:**  
+This visual highlights how **player volume relates to earnings**. Some countries have lots of players with relatively modest wages, while others (like **England** and **Germany**) combine both **quantity and high pay**. You can also spot outliers—countries with fewer players but high average wages, or vice versa.
+
+---
+
+### 5. Global Player Distribution – Map
+
+**What you'll see:**
+- A world map showing where players come from, by country
+
+**Why it matters:**  
+This gives a **geographic perspective**, showing how football talent is spread around the world. You can see which regions are most active in the sport and compare it with insights from other visuals like wage levels or player counts.
+
+---
+
+### 6. Players by Nationality – Table View
+
+**What you'll see:**
+- A table showing **player name**, **wage**, and **overall rating** for selected nationalities
+
+**Why it matters:**  
+This is your deep-dive tool. Once you’ve narrowed your focus using filters, this table lets you explore **individual player data**. You can compare wages and ratings within a country to see who stands out.
+
+---
+
+### 7. Player Distribution by Continent – Pie Chart
+
+**What you'll see:**
+- A pie chart breaking down players by **continent** (Europe, South America, Africa, Asia, etc.)
+
+**Why it matters:**  
+This gives a **big-picture view** of how talent is distributed globally. It becomes clear how **dominant Europe and South America** are, while also showing meaningful contributions from **Africa**, **Asia**, and **North America**.
+
+---
+
+## How It All Comes Together
+
+The visuals on the dashboard are **fully interactive**, meaning:
+- When you use a slicer (like nationality or wage band), **all charts update together**
+- You can explore patterns top-down: from overall numbers to individual players
+- The **flow of information** helps move from general insights (like total players or continent-level distribution) to more specific ones (like average wage for German players or ratings of high-earning Brazilians)
+
+---
+
+## Key Takeaways
+
+- **England, Germany, and Spain** lead in terms of number of players and wages
+- **Wage disparities** are clearly visible, with some nationalities earning far more than others
+- Football talent is **heavily concentrated in Europe and South America**, but other regions are growing
+- The dashboard offers both a **macro view** of the football world and **micro-level detail** when needed
+
+---
+
+This dashboard is designed to be both **insightful and interactive**, helping you better understand where football talent comes from—and how much it earns—on a global scale.
