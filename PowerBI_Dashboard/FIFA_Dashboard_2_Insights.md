@@ -79,5 +79,3 @@ To effectively explain the **"FIFA 2 - Player Performance & Team Dynamics"** das
 The **FIFA 2 - Player Performance & Team Dynamics** dashboard delivers a **comprehensive analysis** of both **player performance** and **team dynamics**. It allows decision-makers to understand how **financial investments** correlate with **performance**, assess the team structure based on **player positions**, and identify the **top-performing players**. The dynamic and interactive elements, such as slicers and KPI cards, make this dashboard a powerful tool for making **data-driven decisions** on team management and financial planning.
 
 ---
-
-Let me know if you'd like further adjustments or additions! This README should now provide clear context and flow for the dashboard on GitHub.
