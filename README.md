@@ -1,16 +1,16 @@
 ![Power BI](https://img.shields.io/badge/Tool-Power%20BI-yellow) ![Python](https://img.shields.io/badge/Language-Python-blue)
 
 20 July, 2025
-# ⚽ FIFA Data Analysis with Python
+# FIFA Data Analysis with Python
 
 This project explores player statistics from the FIFA dataset using Python. It focuses on player nationalities, wages, skills like shooting and defending, and includes a closer look at specific clubs like Real Madrid.
 
-## 📁 Files Included
+## Files Included
 
 - `Fifa_EDA.py` — Main Python script that performs the analysis.
 - `fifa data.csv` — (Not uploaded here due to size/privacy) The dataset used for analysis.
 
-## 🔍 What the Script Does
+## What the Script Does
 
 - Loads the dataset using Pandas
 - Counts players by nationality
@@ -21,7 +21,7 @@ This project explores player statistics from the FIFA dataset using Python. It f
 - Analyzes Real Madrid players by wage, skills, and nationality
 - Uses Matplotlib for bar charts and NumPy for filtering
 
-## 🛠️ Tools Used
+## Tools Used
 
 - Python
 - Pandas
