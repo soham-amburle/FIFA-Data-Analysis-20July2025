@@ -7,7 +7,7 @@ This project explores player statistics from a FIFA dataset using Python. It foc
 
 Using Python, the analysis was conducted through data cleaning, filtering, and visualization techniques to uncover insights across different metrics.
 
-## Files Included
+## Files Included are
 
 - `Fifa_EDA.py` – The main Python script used for the analysis.
 - `README.md`
