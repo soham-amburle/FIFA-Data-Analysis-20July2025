@@ -9,7 +9,7 @@ Using Python, the analysis was conducted through data cleaning, filtering, and v
 
 ## Files Included are
 
-- `Fifa_EDA.py` – The main Python script used for the analysis.
+- `Fifa_EDA.py` – The main Python script that is used for the analysis.
 - `README.md`
 - `PowerBI Dashboard folder`
 - `fifa data.csv` – The dataset (not uploaded here due to size and privacy concerns).
